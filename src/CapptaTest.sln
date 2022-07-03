@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapptaTest.Presentation", "CapptaTest.Presentation\CapptaTest.Presentation.csproj", "{ACD81ECF-0D78-405B-9AF8-4397F3A1A73B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapptaTest.Domain", "CapptaTest.Domain\CapptaTest.Domain.csproj", "{F5629614-82EE-4DE3-B808-60A52272331E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACD81ECF-0D78-405B-9AF8-4397F3A1A73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD81ECF-0D78-405B-9AF8-4397F3A1A73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD81ECF-0D78-405B-9AF8-4397F3A1A73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD81ECF-0D78-405B-9AF8-4397F3A1A73B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5629614-82EE-4DE3-B808-60A52272331E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5629614-82EE-4DE3-B808-60A52272331E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5629614-82EE-4DE3-B808-60A52272331E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5629614-82EE-4DE3-B808-60A52272331E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14B7BABF-4513-43CE-88EC-3823E6594CCD}
+	EndGlobalSection
+EndGlobal
